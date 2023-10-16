@@ -1,0 +1,33 @@
+Module 2 Challenge Read Me
+----------------------------
+
+As the dataset was extremely large to get the VBA script to run in under 5 minutes I needed to modify it using certain things to make it work faster and
+more efficiently. To do this I had to research different ways of doing this.
+
+Advanced Filter
+--------------
+
+I used this resource:
+
+https://www.automateexcel.com/vba/advanced-filter/
+
+To learn a much more efficient and faster way to filter the unique ticker values
+
+Array Functions
+----------------
+
+I also used this function to incorporate arrays in to the macro to speed it up even more
+
+
+https://excelmacromastery.com/excel-vba-array/
+
+
+Scripting Dictionary
+---------------------
+
+I also used this resource to incorporate VBA dictionary to speed it up even further. 
+
+
+https://excelmacromastery.com/vba-dictionary/
+
+On top of this I also split the macro in to 4 different separate parts to avoid confusion.
